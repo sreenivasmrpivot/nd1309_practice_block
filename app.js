@@ -2,6 +2,7 @@
  * Importing the Block class
  */
 //
+const { SHA256 } = require('crypto-js');
 const BlockClass = require('./block.js');
 
 /**
